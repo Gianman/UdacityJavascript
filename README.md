@@ -1,2 +1,2 @@
 # UdacityJavascript
-Create for training purposes
+Created for training purposes
